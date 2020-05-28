@@ -3,7 +3,7 @@ Gamified Dao engagement
 
 ## Glossary
 
-* Badges: onchain data and events inform the badge awards. things like voted on a proposal once, voted ten times, votes 100 times. This is powered by the Daohaus subgraph and has all Daos in the Moloch universe.
+* Badges: onchain data and events inform the badge awards. things like voted on a proposal once, voted ten times, votes 100 times. This is powered by the Daohaus subgraph and has all Daos in the Moloch universe.NFTs are not required to access these and are only used for display on a 3box profile.
 * Certificates and Achievements: Through the use of a Moloch Minion the ERC721 contract can be owned by the dao. This allows minting of new nfts to only be done through a passing proposal. Good use cases for this could be (Achievements), a Dao deciding a member or group of members deserve a special call out for some tasks that they did. Another use case (Certificates) would be to issue possible status in the dao, for example apprentice, journeyman, master. NFT metadata and images are stored on IPFS to insure validity and the ERC721 contract has also been modified to only allow these NFTs to be transferred in a 'Bag', meaning they can only be transferred to a new address all at the same time (not individually). this is to help insure NFTs are tied to a single identity but not lose the full erc721 compatibility all together (still displays in NFT wallets).
 
 ## Files

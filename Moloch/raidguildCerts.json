@@ -1,0 +1,55 @@
+{
+    "title": "Certificate & Achievement Registry",
+    "certs": [
+      {
+        "title": "Rage Ship",
+        "DAO": "Raid Guild",
+        "type": "Achievement",
+        "description": "Awarded by the RaidGuild DAO for outstanding resolve in an epic campaign.",
+        "key": "rageship",
+        "files": ["007-medal-5.svg"],
+        "metaUris": [
+          "QmYC5E5P1CZMoHgBMGq13jHTs4ZDU6anevhawwkyc5cwh7/memberships-1-Badge.json"
+        ],
+        "thresholds": [1]
+      },
+      {
+        "title": "Raid Lead",
+        "DAO": "Raid Guild",
+        "type": "Achievement",
+        "description": "Awarded by the RaidGuild DAO for outstanding leadership in an epic campaign.",
+        "key": "ragelead",
+        "files": ["007-medal-5.svg"],
+        "metaUris": [
+          "QmYC5E5P1CZMoHgBMGq13jHTs4ZDU6anevhawwkyc5cwh7/memberships-1-Badge.json"
+        ],
+        "thresholds": [1]
+      },
+      {
+        "title": "Minion test",
+        "DAO": "Raid Guild",
+        "type": "Achievement",
+        "description": "Testing Member of the minion team.",
+        "key": "miniontest",
+        "files": ["smiling-face-with-horns.png"],
+        "metaUris": [
+          "Qmc5gZbhvM9YwcWVqCiuj5tYVnpyXRwk5RdhPE6R9ponGe"
+        ],
+        "thresholds": [1]
+      },
+      {
+        "title": "RaidGuild Member",
+        "DAO": "Raid Guild",
+        "type": "Certificate",
+        "description": "Member of the guild.",
+        "key": "rgmember",
+        "files": ["rgmember400.gif"],
+        "metaUris": [
+          "QmWwQWRDH5LJXSvnRTL1yLg8YjiyLKfgTMgXmb5JaFekCX"
+        ],
+        "thresholds": [1]
+      }
+      
+    ]
+  }
+  

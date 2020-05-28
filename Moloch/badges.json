@@ -1,0 +1,108 @@
+{
+    "title": "Badge Registry",
+    "badges": [
+      {
+        "title": "Membership Badges",
+        "description": "Dao Membership(s)",
+        "key": "memberships",
+        "files": ["memberships-1-Badge.png", "memberships-5-Badge.png", "memberships-20-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/memberships-1-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/memberships-5-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/memberships-20-Badge.json"
+        ],
+        "thresholds": [1, 5, 20]
+      },
+      {
+        "title": "Summons",
+        "description": "Dao Summons",
+        "key": "summonCount",
+        "files": ["summonCount-1-Badge.png", "summonCount-5-Badge.png", "summonCount-10-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/summonCount-1-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/summonCount-5-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/summonCount-10-Badge.json"
+        ],
+        "thresholds": [1, 5, 10]
+      },
+  
+      {
+        "title": "Proposal Submitter Badges",
+        "description": "Proposal(s) Submitted",
+        "key": "proposalSubmissionCount",
+        "files": ["proposalSubmissionCount-1-Badge.png", "proposalSubmissionCount-10-Badge.png", "proposalSubmissionCount-100-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/proposalSubmissionCount-1-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/proposalSubmissionCount-10-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/proposalSubmissionCount-100-Badge.json"
+        ],
+        "thresholds": [1, 10, 100]
+      },
+      {
+        "title": "Proposal Sponsor Badge",
+        "description": "Proposal(s) Sponsored",
+        "key": "proposalSponsorCount",
+        "files": ["proposalSponsorCount-1-Badge.png", "proposalSponsorCount-10-Badge.png", "proposalSponsorCount-100-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/proposalSponsorCount-1-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/proposalSponsorCount-10-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/proposalSponsorCount-100-Badge.json"
+        ],
+        "thresholds": [1, 10, 100]
+      },
+      {
+        "title": "Voter Badges",
+        "description": "Vote(s)",
+        "key": "voteCount",
+        "files": ["voteCount-1-Badge.png", "voteCount-10-Badge.png", "voteCount-100-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/voteCount-1-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/voteCount-10-Badge.json",
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/voteCount-100-Badge.json"
+        ],
+        "thresholds": [1, 10, 100]
+      },
+      {
+        "title": "Dissenter Badge",
+        "description": "No Vote(s). Do you know when to say no?",
+        "key": "dissents",
+        "files": ["dissents-1-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/dissents-1-Badge.json"
+        ],
+        "thresholds": [1]
+      },
+      {
+        "title": "Assenter Badge",
+        "description": "Yes Vote(s). Yes! Yes! Yes!",
+        "key": "assents",
+        "files": ["assents-1-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/assents-1-Badge.json"
+        ],
+        "thresholds": [1]
+      },
+  
+      {
+        "title": "RageQuiter",
+        "description": "Rage Quit(s)",
+        "key": "rageQuitCount",
+        "files": ["rageQuitCount-1-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/rageQuitCount-1-Badge.json"
+        ],
+        "thresholds": [1]
+      },
+      {
+        "title": "Jailed",
+        "description": "Time(s) in the slammer",
+        "key": "jailedCount",
+        "files": ["jailedCount-1-Badge.png"],
+        "metaUris": [
+          "QmNUi32pbQnkZLZoA53Q7rJGbsj3JJjRA8zNv2WWqRatKG/jailedCount-1-Badge.json"
+        ],
+        "thresholds": [1]
+      }
+    ]
+  }
+  
